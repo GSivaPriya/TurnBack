@@ -6,21 +6,21 @@ This project uses the following third-party assets.
 
 - **Mobile Main Menu UI Pack (Clean & Animated)** — Spes Vitae.  
   Source: [https://assetstore.unity.com/](https://assetstore.unity.com/packages/2d/gui/mobile-main-menu-ui-pack-clean-animated-364444)  
-  Licence: Unity Asset Store EULA. See the asset's store page and included licence files for the applicable terms.
+  Licence: Unity Asset Store EULA.
 
 - **Bubble Font (Free Version)** — Jazz Create Games.  
   Source: [https://assetstore.unity.com/](https://assetstore.unity.com/packages/2d/fonts/bubble-font-free-version-24987)  
-  Licence: Unity Asset Store EULA. See the asset's store page and included licence files for the applicable terms.
+  Licence: Unity Asset Store EULA.
 
 ## itch.io
 
 - **Assets Pack Space Shooter** — PixelS.O.S.  
   Source: https://pixelsos.itch.io/ass  
-  Licence: Creator's V0.1 licence. Permitted for free and commercial projects; attribution is not required but appreciated. Do not repackage, redistribute, or resell the assets, including modified versions.
+  Licence: Creator's V0.1 licence. 
 
 - **Seamless Space Backgrounds** — Screaming Brain Studios.  
   Source: https://screamingbrainstudios.itch.io/seamless-space-backgrounds  
-  Licence: CC0 / Public Domain. Attribution is not required.
+  Licence: CC0 / Public Domain.
 
 ## Audio — Pixabay
 
